@@ -37,4 +37,7 @@ What is the age distribution for the survey?
 Disaggregation of data:
 For a selected population, discover at least two things about this group.
 
+Count of Prior to applying to college, did you participate in any of the following events or activities at the County College of Morris and/or with the Department of Information Technologies, if at all? [Women Who Dare]
+Out of all the women, only 1 answered yes to this question
+
 Answer two questions from your previously submitted Project 1 questions.
