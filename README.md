@@ -71,3 +71,6 @@ The two top reasons for women enrolling in computing classes at CCM were tied fo
  Data Analytics Certificate of Achievement - 1
  Early Childhood Education - 1
  
+ 
+Two insights that help inform the department recruiting efforts based upon the analysis you performed
+- Two insights that help the recruiting department that can be derived from my analysis are that  influence from friends and family are highly valued in terms of getting more women to sign up for more computing classes at CCM; another is that most students that weren't already signed up for computing related majors came from Business Administration (2) Challenger Program (2) Sharetime CSIP program (2), so these should be focused on for recruiting more students in computing classes. 
